@@ -1,0 +1,3 @@
+<!-- <string name="facebook_app_id">531013946114977</string>
+<string name="fb_login_protocol_scheme">fb531013946114977</string>
+<string name="facebook_client_token">2ac7635f2e8dc881a84be09726c30e95</string> -->
